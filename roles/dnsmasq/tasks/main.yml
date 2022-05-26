@@ -1,0 +1,23 @@
+- name: Create conf directory
+  become: true
+  file:
+    path: /usr/local/etc/
+    state: directory
+
+- name: Set configuration file
+  become: true
+  template:
+    src: dnsmasq.conf
+    dest: /usr/local/etc/dnsmasq.conf
+
+- name: Create resolver directory
+  become: true
+  file:
+    path: /etc/resolver/
+    state: directory
+
+- name: Set configuration file
+  become: true
+  template:
+    src: boi-resolver
+    dest: /etc/resolver/boi

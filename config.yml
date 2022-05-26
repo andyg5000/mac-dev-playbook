@@ -1,4 +1,5 @@
 homebrew_installed_packages:
+  - dnsmasq
   - fish
   - htop
   - wget
