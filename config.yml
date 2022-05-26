@@ -1,0 +1,36 @@
+homebrew_installed_packages:
+  - fish
+  - htop
+  - wget
+
+homebrew_cask_apps:
+  - atom
+  - authy
+  - docker
+  - firefox
+  - google-chrome
+  - iterm2
+  - keybase
+  - licecap
+  - reaper
+  - tidal
+  - visual-studio-code
+
+mas_installed_apps:
+  - { id: 1333542190, name: "1Password" }
+  - { id: 1233861775, name: "Acorn 6"}
+  - { id: 918858936, name: "Airmail 5"}
+  - { id: 417375580, name: "BetterSnapTool" }
+  - { id: 975937182, name: "Fantastical"}
+  - { id: 506189836, name: "Harvest"}
+  - { id: 1451685025, name: "Wireguard"}
+
+
+
+
+
+# mas_uninstalled_apps:
+#   - { id: 408981434, name: "iMovie" }
+#   - { id: 409183694, name: "Keynote" }
+#   - { id: 409201541, name: "Pages" }
+#   - { id: 409203825, name: "Numbers" }
