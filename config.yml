@@ -19,6 +19,7 @@ homebrew_cask_apps:
   - signal
   - tidal
   - visual-studio-code
+  - zoom
 
 mas_installed_apps:
   - { id: 1333542190, name: "1Password" }
