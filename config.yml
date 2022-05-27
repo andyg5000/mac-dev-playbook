@@ -10,10 +10,13 @@ homebrew_cask_apps:
   - docker
   - firefox
   - google-chrome
+  - homebrew/cask-versions/sonos-s1-controller
   - iterm2
+  - izotope-product-portal
   - keybase
   - licecap
   - reaper
+  - signal
   - tidal
   - visual-studio-code
 
