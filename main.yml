@@ -25,6 +25,7 @@
     #   when: configure_dock
     #   tags: ['dock']
     - role: dnsmasq
+    - role: keybindings
 
   tasks:
     # - import_tasks: tasks/sudoers.yml

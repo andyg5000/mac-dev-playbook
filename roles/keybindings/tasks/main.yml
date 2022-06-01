@@ -1,0 +1,9 @@
+- name: Create conf directory
+  file:
+    path: "{{ ansible_env.HOME }}/Library/KeyBindings"
+    state: directory
+
+- name: Set configuration file
+  template:
+    src: DefaultKeyBinding.dict
+    dest: "{{ ansible_env.HOME }}/Library/KeyBindings/DefaultKeyBinding.dict"
