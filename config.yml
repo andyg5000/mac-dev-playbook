@@ -15,6 +15,7 @@ homebrew_cask_apps:
   - izotope-product-portal
   - keybase
   - licecap
+  - postman
   - reaper
   - signal
   - tidal
