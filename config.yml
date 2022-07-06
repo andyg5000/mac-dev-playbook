@@ -2,6 +2,9 @@ homebrew_installed_packages:
   - dnsmasq
   - fish
   - htop
+  - nomad
+  - restic
+  - terraform
   - wget
 
 homebrew_cask_apps:
@@ -15,6 +18,7 @@ homebrew_cask_apps:
   - izotope-product-portal
   - keybase
   - licecap
+  - nomad
   - postman
   - reaper
   - signal
