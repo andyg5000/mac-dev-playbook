@@ -1,7 +1,9 @@
 homebrew_installed_packages:
+  - awscli
   - dnsmasq
   - fish
   - htop
+  - jq
   - nmap
   - nomad
   - restic
@@ -25,6 +27,7 @@ homebrew_cask_apps:
   - signal
   - tidal
   - visual-studio-code
+  - wireshark
   - zoom
 
 mas_installed_apps:
