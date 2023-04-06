@@ -9,9 +9,9 @@ homebrew_installed_packages:
   - restic
   - terraform
   - wget
+  - nomad
 
 homebrew_cask_apps:
-  - atom
   - authy
   - docker
   - firefox
@@ -23,12 +23,25 @@ homebrew_cask_apps:
   - licecap
   - nomad
   - postman
+  - sublime-text
   - reaper
   - signal
   - tidal
   - visual-studio-code
   - wireshark
   - zoom
+  # Audio Plugins
+  - fabfilter-pro-c
+  - fabfilter-pro-ds
+  - fabfilter-pro-g
+  - fabfilter-pro-l
+  - fabfilter-pro-mb
+  - fabfilter-pro-q
+  - fabfilter-pro-r
+  - fabfilter-saturn
+  - fabfilter-timeless
+  - fabfilter-volcano
+  - tdr-vos-slickeq
 
 mas_installed_apps:
   - { id: 1333542190, name: "1Password" }
