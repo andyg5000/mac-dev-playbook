@@ -2,10 +2,12 @@ homebrew_installed_packages:
   - awscli
   - dnsmasq
   - fish
+  - ffmpeg
   - htop
   - jq
   - nmap
   - nomad
+  - patchutils
   - restic
   - terraform
   - wget
