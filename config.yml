@@ -21,6 +21,7 @@ homebrew_cask_apps:
   - homebrew/cask-versions/sonos-s1-controller
   - iterm2
   - izotope-product-portal
+  - karabiner-elements
   - keybase
   - licecap
   - nomad
