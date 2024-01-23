@@ -31,6 +31,7 @@ homebrew_cask_apps:
   - sublime-text
   - reaper
   - signal
+  - sysex-librarian
   - tidal
   - visual-studio-code
   - wireshark
