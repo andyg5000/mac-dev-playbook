@@ -1,3 +1,6 @@
+homebrew_taps:
+  - hashicorp/tap
+
 homebrew_installed_packages:
   - awscli
   - dnsmasq
@@ -12,15 +15,16 @@ homebrew_installed_packages:
   - restic
   - terraform
   - wget
-  - nomad
 
 homebrew_cask_apps:
   - audacity
   - authy
+  - blender
   - docker
   - firefox
   - google-chrome
   - homebrew/cask-versions/sonos-s1-controller
+  # - hashicorp/tap/packer
   - iterm2
   - izotope-product-portal
   - karabiner-elements
@@ -31,6 +35,7 @@ homebrew_cask_apps:
   - sublime-text
   - reaper
   - signal
+  - switchaudio-osx
   - sysex-librarian
   - tidal
   - visual-studio-code
