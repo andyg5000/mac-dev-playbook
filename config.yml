@@ -53,6 +53,7 @@ homebrew_cask_apps:
   - fabfilter-timeless
   - fabfilter-volcano
   - tdr-vos-slickeq
+  - x32-edit
 
 mas_installed_apps:
   - { id: 1333542190, name: "1Password" }
