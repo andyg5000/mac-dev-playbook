@@ -20,6 +20,7 @@ homebrew_cask_apps:
   - audacity
   - authy
   - blender
+  - blueutil
   - docker
   - firefox
   - google-chrome
@@ -27,7 +28,6 @@ homebrew_cask_apps:
   # - hashicorp/tap/packer
   - iterm2
   - izotope-product-portal
-  - karabiner-elements
   - keybase
   - licecap
   - nomad
